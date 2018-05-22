@@ -1,0 +1,132 @@
+models 10
+
+1
+fname Ball
+position 50 300 0
+orientation2 0 0 0
+scale 10.0
+name sphere
+type sphere
+physics 1
+text1 Utah_Teapot_xyz_n_uv_Enterprise.bmp
+text1br 0.2
+text2 pavement.bmp
+text2br 1.0
+
+2
+fname Ball2
+position 0 60 0
+orientation2 0 0 0
+scale 6.0
+name sphere
+type sphere
+physics 1
+text1 Utah_Teapot_xyz_n_uv_Enterprise.bmp
+text1br 0.5
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+3
+fname Ball3
+position 0 40 0
+orientation2 0 0 0
+scale 6.0
+name sphere
+type sphere
+physics 1
+text1 image2.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+4
+fname Ball4
+position 0 20 0
+orientation2 0 0 0
+scale 6.0
+name sphere
+type sphere
+physics 1
+text1 image2.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+5
+fname Ball5
+position 25 25 0
+orientation2 0 0 0
+scale 6.0
+name sphere
+type sphere
+physics 1
+text1 image2.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+6
+fname ball6DOF
+position 0 20 0
+orientation2 0 0 0
+scale 1.0
+name cone
+type cone
+physics 1
+text1 image1.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+7
+fname cube
+position 200 20 60
+orientation2 0 0 0
+scale 10.0
+name cube
+type cube
+physics 1
+text1 wood.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+8
+fname cube
+position 60 20 25
+orientation2 0 0 0
+scale 10.0
+name cube
+type cube
+physics 1
+text1 image1.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+9
+fname rectanglebox
+position 200 20 20
+orientation2 0 0 0
+scale 15.0
+name cube
+type cube
+physics 1
+text1 image1.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
+
+
+10
+fname Ground
+position 0 0 0
+orientation2 -1.56 0 0
+scale 30.0
+name planexy
+type plane
+physics 1
+text1 pavement.bmp
+text1br 1.0
+text2 GuysOnSharkUnicorn.bmp
+text2br 0.5
